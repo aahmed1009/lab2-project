@@ -6,6 +6,13 @@
 # Remotely
 # git push origin --delete dev
 # git push origin --delete test
+
+## Switching Branches Without Losing Changes
+
+
+git checkout other-branch
+
+
 # Delete tag locally
 git tag -d v1.7
 
